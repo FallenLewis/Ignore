@@ -7,50 +7,6 @@ shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
 shared.scr = [[ 
-[yw1] [w5] 8 [ywr] w  0 w [y2] 
-   [w6]       9    [ye]       0       w       0   [yw3]    [w7] 
-      0    [yr]       w       0       w    [y3]    [w7]       0 
-   [yr]       Q       w       0   [yw1]    [w5]       8   [ywr] 
-      w       0       w    [y2]    [w6]       9    [ye]       0 
-      w       0   [yw3]    [w7]       0    [yr]       w       0 
-      w    [y3]    [w7]       0    [yr]       Q       w       0 
-   [y1]  [ywp5]       8  [ywrp]   [ywp]       0   [ywp]       2 
- [ywo6]       9   [yeI]    [o0]       w    [I0]    [y3]    [w7] 
-      0    [yr]       w    [y0]    [yw]    [y3]    [w7]       0 
-   [yr]    [Q0]    [w7]       0    [y1]  [ywp5]       8  [ywrp] 
-  [ywp]       0   [ywp]       2  [ywo6]       9   [yeI]    [o0] 
-      w    [p0]       3       7       0    [yr]       w   [uo0] 
-  [wuo]    [v3]    [C7]    [z0]   [yrj]    [h0]    [a7]    [kf] 
-   [y1]    [w5]       8    [wr]       w    [l0]   [wjd]    [y2] 
-   [w6]       9    [ye]       0    [wh]   [ha0]    [v3]       7 
-      0   [yrC]       w    [z0]    [wj]   [aG3]       7   [of0] 
- [yrof]   [oG0]       7    [da]    [y1]    [w5]    [z8]    [wr] 
-      w    [a0]   [wpd]    [y2]    [w6]    [x9]    [ye]       0 
-   [wo]    [o0]       3       7   [jb0]    [yr]       w       0 
-   [zd]    [ka]    [zd]   [spj]       1    [x1]    [85]       8 
-[wsoh0]   [IG8]       2    [C2]    [96]       9  [ufeQ]  [oha9] 
-      3    [v3]    [70]    [C0]    [wr]   [yd0]   [zd3]    [ka] 
-      3  [ka70]   [zd0]    [wr]  [spj0]       1    [x1]    [85] 
-      8 [wsoh0]   [IG8]       2    [C2]    [96]       9  [ufeQ] 
- [oha9]       3    [pj]  [kfa3]    [70]    [C0]    [wr]   [yd0] 
-  [zd3]    [ka]       3  [ka70]   [zd0]    [wr]  [spj0]       1 
-   [x1]    [85]       8 [wsoh0]   [IG8]       2    [C2]    [96] 
-      9  [ufeQ]  [oha9]       3    [v3]    [70]    [C0]    [wr] 
-  [yd0]  [uof3]    [uf]       3 [uofa70]   [IG0]    [wr] [ohfa0] 
-      1    [x1]    [85]       8  [wIG0] [pdIG8]       2    [C2] 
-   [96]       9  [ufeQ]  [upf9]       6    [v6]    [e0]    [eC] 
-   [uT]       e   [nk6]       6   [xe0]       6       3       6 
-      1       1    [85]   [uof]       8    [w0]  [spj8]       2 
-      2    [96]       9  [keaQ]  [oha9]       3       3    [70] 
-      0  [wrIG] [ohfa0]       3       3    [70]       0    [wr] 
-      0       1       1    [85]   [uof]       8    [w0]  [spj8] 
-      2       2    [96]       9  [keaQ]  [oha9]       3       3 
-   [70]       0  [wrIG] [ohfa0]       3       3    [70]    [ka] 
-      0    [wr]  [spj0]       1  [uof1] [uof85]       8 [wuof0] 
- [uof8]       2  [pIG2] [pIG96]       9 [peQIG]  [pIG9]       3 
- [oha3] [oha70]       0 [wroha]  [oha0]       3  [pIG7] [pIG70] 
-      0  [wuof]  [uof0]   [yw8]       w    [sf]   [ysf]       w 
-  [pf0]   [wpf]    [y9]       w    [pG]   [ypG]       0   [wdG] 
-  [dG0]   [yw0]       w    [ha]   [yha]       w   [ha0]   [wha] 
-      y       w    [pG]   [ypG]       Q   [wof]   [of0] 
+[w3] r u w r u w r I w r I w r o w r o w r I w r I [w3] r u w r u w r I w r I w r o w r o w r p o I r [w3] r u w r u w r I w r I w r o w r o w r I w r I [w3] r u w r u w r I w r I w r o w r o w r p| |[u3] w r u w r u w r u w r I w r I w r I w r I w r [u3] w r u w r I w r I w r o w r o w r p w r o w I [u3] w r u w r I w r u w r u w r o w r u w r p w r [u3] w r u w r u w r y w r u w r I w r y w r u w r [u3] w r u w r o u o a u o [f3] u o a u f u a f a f G [h3] a k f a j|f h G f a [u3] o a d f o h o G f a u [ua3]||[lf]||[kd3]||[sj]||[hd5]||[sG]||[fa]||[sh5]||[jfd6]||[sh]||[kd5]||[lf6]||[kd3]||[hd]||[aG1]||[fa]| |[r3] 0 w t 0 w t 0 w r 0 w r 0 w u 0 w u 0 w y 0 w [y3] 0 w t 0 w r 0 w t 0 w r 0 t 0 r 0 w 0 r u 0 r [r73] o u r o u r o u r o u [t73] p u t p u t p u t p u [y73] a I y a I y a I y a I [t73] p u t p u t p u [t73]| |[ura73] o u [ura] o u [ura] o u [yd] [ts] [ra] [upe51] u e [wo] u w [wo] u w [upe] u p [ura63] o u [ra] o u [yd] y o [ts] t o [ra2] r u [pe] e y [wo] w y [pe] e u [ra73] u r [ra] u f u d u a u a [ra51] u o [ra] u f u d u a u o [a63] u f u a u d u p a p u [a7$] u f u d u a u o p a u 3||0 r 0 t 0 y 0 u 0 r 0 t 0 e 0 r 0 t 0 w 0 3||0 r 0 t 0 y r u r I r o r p r a r s t a u| |3 7 0 [wu] [rI] I I||ua||[ua1] [p5] [p8] [p0] w t u||u||[ua6] [p3] [p6] [p8] 0 e t||us||[us2] [a$] [a7] [a9] Q r u I I o||3||[kfa3] [pj7] [oh0] [IG3] [oh7] [IG0] [ufa3] 7 0 1||[kfa1] [pj5] [oh8] [IG1] [oh5] [IG8] [ufa1] 5 8 6||[a6]fk3 6 [kfa6] 3 6 [pjd6] 3 6 7||[a7]fk$ 7 [kfa7] $ 7 [pjd7] $ 7 [ua3]||[ua]||[od]||[so]||[ua3]||[of]||[pG]||[hd]||[pj73] d p [pj] d p [hd] p d [dG] p d f p a d p o p I u y u r w r 0 e|w||0 r 0| |[730]| |x||x||x
+ 
 ]]
