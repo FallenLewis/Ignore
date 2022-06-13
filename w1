@@ -1,0 +1,56 @@
+-- Sheet for Rondo Alla Turca by Dont worry bout it
+
+shared.stop = true -- stops the player at any time if true
+-- CONFIG:
+shared.ftime = 9*60 + 25 -- time in seconds for the song to finish (extended by |)
+shared.delay = nil -- delay overides the ftime
+shared.tempo = nil -- tempo overides the delay
+
+shared.scr = [[ 
+[yw1] [w5] 8 [ywr] w  0 w [y2] 
+   [w6]       9    [ye]       0       w       0   [yw3]    [w7] 
+      0    [yr]       w       0       w    [y3]    [w7]       0 
+   [yr]       Q       w       0   [yw1]    [w5]       8   [ywr] 
+      w       0       w    [y2]    [w6]       9    [ye]       0 
+      w       0   [yw3]    [w7]       0    [yr]       w       0 
+      w    [y3]    [w7]       0    [yr]       Q       w       0 
+   [y1]  [ywp5]       8  [ywrp]   [ywp]       0   [ywp]       2 
+ [ywo6]       9   [yeI]    [o0]       w    [I0]    [y3]    [w7] 
+      0    [yr]       w    [y0]    [yw]    [y3]    [w7]       0 
+   [yr]    [Q0]    [w7]       0    [y1]  [ywp5]       8  [ywrp] 
+  [ywp]       0   [ywp]       2  [ywo6]       9   [yeI]    [o0] 
+      w    [p0]       3       7       0    [yr]       w   [uo0] 
+  [wuo]    [v3]    [C7]    [z0]   [yrj]    [h0]    [a7]    [kf] 
+   [y1]    [w5]       8    [wr]       w    [l0]   [wjd]    [y2] 
+   [w6]       9    [ye]       0    [wh]   [ha0]    [v3]       7 
+      0   [yrC]       w    [z0]    [wj]   [aG3]       7   [of0] 
+ [yrof]   [oG0]       7    [da]    [y1]    [w5]    [z8]    [wr] 
+      w    [a0]   [wpd]    [y2]    [w6]    [x9]    [ye]       0 
+   [wo]    [o0]       3       7   [jb0]    [yr]       w       0 
+   [zd]    [ka]    [zd]   [spj]       1    [x1]    [85]       8 
+[wsoh0]   [IG8]       2    [C2]    [96]       9  [ufeQ]  [oha9] 
+      3    [v3]    [70]    [C0]    [wr]   [yd0]   [zd3]    [ka] 
+      3  [ka70]   [zd0]    [wr]  [spj0]       1    [x1]    [85] 
+      8 [wsoh0]   [IG8]       2    [C2]    [96]       9  [ufeQ] 
+ [oha9]       3    [pj]  [kfa3]    [70]    [C0]    [wr]   [yd0] 
+  [zd3]    [ka]       3  [ka70]   [zd0]    [wr]  [spj0]       1 
+   [x1]    [85]       8 [wsoh0]   [IG8]       2    [C2]    [96] 
+      9  [ufeQ]  [oha9]       3    [v3]    [70]    [C0]    [wr] 
+  [yd0]  [uof3]    [uf]       3 [uofa70]   [IG0]    [wr] [ohfa0] 
+      1    [x1]    [85]       8  [wIG0] [pdIG8]       2    [C2] 
+   [96]       9  [ufeQ]  [upf9]       6    [v6]    [e0]    [eC] 
+   [uT]       e   [nk6]       6   [xe0]       6       3       6 
+      1       1    [85]   [uof]       8    [w0]  [spj8]       2 
+      2    [96]       9  [keaQ]  [oha9]       3       3    [70] 
+      0  [wrIG] [ohfa0]       3       3    [70]       0    [wr] 
+      0       1       1    [85]   [uof]       8    [w0]  [spj8] 
+      2       2    [96]       9  [keaQ]  [oha9]       3       3 
+   [70]       0  [wrIG] [ohfa0]       3       3    [70]    [ka] 
+      0    [wr]  [spj0]       1  [uof1] [uof85]       8 [wuof0] 
+ [uof8]       2  [pIG2] [pIG96]       9 [peQIG]  [pIG9]       3 
+ [oha3] [oha70]       0 [wroha]  [oha0]       3  [pIG7] [pIG70] 
+      0  [wuof]  [uof0]   [yw8]       w    [sf]   [ysf]       w 
+  [pf0]   [wpf]    [y9]       w    [pG]   [ypG]       0   [wdG] 
+  [dG0]   [yw0]       w    [ha]   [yha]       w   [ha0]   [wha] 
+      y       w    [pG]   [ypG]       Q   [wof]   [of0] 
+]]
