@@ -1,0 +1,12 @@
+-- Sheet for Rondo Alla Turca by Dont worry bout it
+
+shared.stop = true -- stops the player at any time if true
+-- CONFIG:
+shared.ftime = 9*60 + 25 -- time in seconds for the song to finish (extended by |)
+shared.delay = nil -- delay overides the ftime
+shared.tempo = nil -- tempo overides the delay
+
+shared.scr = [[ 
+[w3] r u w r u w r I w r I w r o w r o w r I w r I [w3] r u w r u w r I w r I w r o w r o w r p o I r [w3] r u w r u w r I w r I w r o w r o w r I w r I [w3] r u w r u w r I w r I w r o w r o w r p| |[u3] w r u w r u w r u w r I w r I w r I w r I w r [u3] w r u w r I w r I w r o w r o w r p w r o w I [u3] w r u w r I w r u w r u w r o w r u w r p w r [u3] w r u w r u w r y w r u w r I w r y w r u w r [u3] w r u w r o u o a u o [f3] u o a u f u a f a f G [h3] a k f a j|f h G f a [u3] o a d f o h o G f a u [ua3]||[lf]||[kd3]||[sj]||[hd5]||[sG]||[fa]||[sh5]||[jfd6]||[sh]||[kd5]||[lf6]||[kd3]||[hd]||[aG1]||[fa]| |[r3] 0 w t 0 w t 0 w r 0 w r 0 w u 0 w u 0 w y 0 w [y3] 0 w t 0 w r 0 w t 0 w r 0 t 0 r 0 w 0 r u 0 r [r73] o u r o u r o u r o u [t73] p u t p u t p u t p u [y73] a I y a I y a I y a I [t73] p u t p u t p u [t73]| |[ura73] o u [ura] o u [ura] o u [yd] [ts] [ra] [upe51] u e [wo] u w [wo] u w [upe] u p [ura63] o u [ra] o u [yd] y o [ts] t o [ra2] r u [pe] e y [wo] w y [pe] e u [ra73] u r [ra] u f u d u a u a [ra51] u o [ra] u f u d u a u o [a63] u f u a u d u p a p u [a7$] u f u d u a u o p a u 3||0 r 0 t 0 y 0 u 0 r 0 t 0 e 0 r 0 t 0 w 0 3||0 r 0 t 0 y r u r I r o r p r a r s t a u| |3 7 0 [wu] [rI] I I||ua||[ua1] [p5] [p8] [p0] w t u||u||[ua6] [p3] [p6] [p8] 0 e t||us||[us2] [a$] [a7] [a9] Q r u I I o||3||[kfa3] [pj7] [oh0] [IG3] [oh7] [IG0] [ufa3] 7 0 1||[kfa1] [pj5] [oh8] [IG1] [oh5] [IG8] [ufa1] 5 8 6||[a6]fk3 6 [kfa6] 3 6 [pjd6] 3 6 7||[a7]fk$ 7 [kfa7] $ 7 [pjd7] $ 7 [ua3]||[ua]||[od]||[so]||[ua3]||[of]||[pG]||[hd]||[pj73] d p [pj] d p [hd] p d [dG] p d f p a d p o p I u y u r w r 0 e|w||0 r 0| |[730]| |x||x||x
+ 
+]]
